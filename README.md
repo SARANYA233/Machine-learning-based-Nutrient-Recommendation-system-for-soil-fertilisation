@@ -94,7 +94,7 @@ Open **http://localhost:5000**, select a crop, state and city, and submit the fo
 
 Authors: J. S. Sowmiya, Saranya S., K. Sriponbala, Sarangam Sai Indu and A. Swathi.
 
-[Journal]([https://www.jetir.org/](https://www.jetir.org/trackauthorhome.php?a_rid=515607))
+[Journal](https://www.jetir.org/trackauthorhome.php?a_rid=515607)
 
 ## Limitations
 
