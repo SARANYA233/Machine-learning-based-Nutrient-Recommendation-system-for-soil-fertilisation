@@ -94,7 +94,7 @@ Open **http://localhost:5000**, select a crop, state and city, and submit the fo
 
 Authors: J. S. Sowmiya, Saranya S., K. Sriponbala, Sarangam Sai Indu and A. Swathi.
 
-[Dataset source](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) · [Journal](https://www.jetir.org/)
+[Journal]([https://www.jetir.org/](https://www.jetir.org/trackauthorhome.php?a_rid=515607))
 
 ## Limitations
 
